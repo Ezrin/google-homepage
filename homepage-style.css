@@ -1,0 +1,54 @@
+.searchbox {
+  display:block;
+  margin:auto;
+  border: 1px solid #d9d9d9;
+  width: 568px; height: 28px;
+  border-top-color: #c0c0c0;
+}
+
+.searchform {
+  display: inline-block;
+  width:521px;
+}
+
+input {
+  border: none;
+  height: 19.188x; width:521px;
+  vertical-align: center;
+  color:initial;
+  position: relative;
+  vertical-align: center;
+  margin-bottom: auto;
+  outline-width: 0;
+ 
+}
+
+.searchmic {
+  background: url(mic.gif) no-repeat center;
+  background-size: 14px 19px;
+  display:inline-block;
+  height: 23px; width: 17px;
+  position: relative;
+  left: 15px;
+  vertical-align: middle;
+}
+
+#header {
+  display: block;
+  position: -295px;
+  text-align: right;
+}
+
+a{
+  color: #404040;
+  text-decoration: none;
+  line-height: 24x;
+  vertical-align: middle;
+  display: inline-block;
+  font-size: 13px;
+  font-family: arial, sanss-serif;
+}
+
+a:hover {
+  text-decoration: underline;
+}
